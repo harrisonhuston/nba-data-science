@@ -6,3 +6,4 @@
 
   Please see the instructions word document (instructions.docx) for instructions on how to run the program.
   
+  Harrison Huston, 2022
